@@ -62,19 +62,6 @@
             width: 44%;
             background-color: #bbb;
         }
-        section {
-            height: 100%;
-            width: 70%px;
-            background-color: antiquewhite;
-            float: left;
-        }
-        aside {
-            height: 100%;
-            width: 30%;
-            background-color: rgb(190, 166, 133);
-            float:left;
-        }
-       
     </style>
 </head>
 <body>
@@ -94,7 +81,6 @@
     <tr>
         <td colspan="3" class="footer">Footer</td>
     </tr>
-
 </table>
 
 </body>
